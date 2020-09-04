@@ -1,1 +1,1 @@
-# Hi :wave: this is Nikil Alakunta 
+# Hi, :wave: I'm Nikil Alakunta 

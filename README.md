@@ -20,5 +20,5 @@
 ![](https://badgen.net/badge/Tools/matplotlib/blue?icon=https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/git/blue?icon=https://simpleicons.org/icons/git.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/GitHub/blue?icon=github&labelColor=cyan&label)
-![](https://badgen.net/badge/Editor/Docker/blue?icon=https://simpleicons.org/icons/Docker.svg&labelColor=cyan&label)
-![](https://badgen.net/badge/Tools/SQL/blue?icon=https://simpleicons.org/icons/SQL.svg&labelColor=cyan&label)
+![](https://badgen.net/badge/Tools/Docker/blue?icon=https://simpleicons.org/icons/Docker.svg&labelColor=cyan&label)
+![](https://badgen.net/badge/Code/SQL/blue?icon=https://simpleicons.org/icons/SQL.svg&labelColor=cyan&label)

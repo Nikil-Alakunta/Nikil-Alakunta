@@ -1,7 +1,8 @@
 # Hi, :wave: I'm Nikil Alakunta 
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-blog is website definition in read file, just a place holder for all the urls that I have used.
-[blog]: https://eresh-zealous.medium.com/
-
-
+<p align='center'>
+  <a href=https://www.linkedin.com/in/nikil-alakunta/><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+	></a>
+  <a href=https://medium.com/@o773hnikil><img src=https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white></a>
+  <a href='mailto:o773hnikil@gmail.com'><img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white></a>
+</p>
